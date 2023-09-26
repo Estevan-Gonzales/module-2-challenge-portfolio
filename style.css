@@ -42,13 +42,15 @@ body {
 
 .project {
     width: 49%;
-    border: solid black;
+    border: solid lightskyblue 10px;
+    background-color: white;
 
 }
 
 #project-latest {
     width: 100%;
-    border: solid black;
+    border: solid lightskyblue 10px;
+    background-color: white;
 }
 
 img {
