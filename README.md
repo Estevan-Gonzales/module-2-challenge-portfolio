@@ -16,14 +16,14 @@ Through this project, I have learned how to better market myself as a developer.
 3. Use Developer Tools to view meta data associated with the compiled HTML/CSS found below:      
    https://estevan-gonzales.github.io/module-2-challenge-portfolio
 
-## Usage
-
-Click on project images to be taken to the deployed version on Github.
-
 ### Option 2:
 1. Clone this repository to your local machine.
 2. Open in VS Code.
 3. Inspect written code and HTML page with Live Server.
+
+## Usage
+
+Click on project images to be taken to the deployed version on Github.
 
 ## License
 
